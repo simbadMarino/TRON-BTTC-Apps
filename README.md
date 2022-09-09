@@ -1,5 +1,5 @@
 # TRON-BTTC-dApp-List
-This is an attempt to list ALL open source TRON &amp; BTTC ecosystem dApps,scripts, etc.
+This is an attempt to list ALL open source TRON &amp; BTTC ecosystem dApps, utilities, scripts, etc.
 
 
 ## Open Source TRON & BTTC Apps
