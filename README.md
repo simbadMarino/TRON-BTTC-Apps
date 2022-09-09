@@ -32,6 +32,8 @@ This is an attempt to list ALL open source TRON &amp; BTTC ecosystem dApps, util
 | [justmoney-swap](https://github.com/justmoney-io/justmoney-pay-woocommerce) | justmoney pay plugin                          | Yes      | ![GitHub last commit](https://img.shields.io/github/last-commit/justmoney-io/justmoney-pay-woocommerce)                       | ![GitHub Repo stars](https://img.shields.io/github/stars/justmoney-io/justmoney-pay-woocommerce)                  | Web3 |
 | [tron-transfers-downloader](https://github.com/ColonelJ/tron-transfers-downloader) | Node.js script to download all TRX and TRC10 transfers to/from an account to a CSV file, using TronGrid APIs                            | Yes      | ![GitHub last commit](https://img.shields.io/github/last-commit/ColonelJ/tron-transfers-downloader)                       | ![GitHub Repo stars](https://img.shields.io/github/stars/ColonelJ/tron-transfers-downloader)                  | Data Fetching |
 | [tron-api](https://github.com/iexbase/tron-api) | A PHP API for interacting with Tron (TRX)                         | No      | ![GitHub last commit](https://img.shields.io/github/last-commit/iexbase/tron-api)                       | ![GitHub Repo stars](https://img.shields.io/github/stars/iexbase/tron-api)                  | Web3 |
+| [tron.net](https://github.com/griffo-io/tron.net) | Tron.Net is a port in .NET standard of the Tron protocol                        | Yes      | ![GitHub last commit](https://img.shields.io/github/last-commit/griffo-io/tron.net)                       | ![GitHub Repo stars](https://img.shields.io/github/stars/griffo-io/tron.net)                  | Web3 |
+
 
 
 
